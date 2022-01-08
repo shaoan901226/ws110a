@@ -10,8 +10,9 @@
 課程內容 | https://gitlab.com/ccc110/ws
 
 # 網頁說明
-
 [DD週報](https://shaoanyahoo.wixsite.com/my-site)
 # 參考資料
+[WIX](https://www.wix.com/)
+
 
 
