@@ -26,8 +26,8 @@ Wix是一間以色列公司，於2006年在Tel Aviv成立。2013年11月，於�
 
 # 使用工具
 
-![WIX入口](https://user-images.githubusercontent.com/79679538/148655415-d55141dc-a654-4d92-9271-40b887f2ec93.png)
+![WIX入口](https://user-images.githubusercontent.com/79679538/148655439-5fc80756-59dd-40d1-a4b6-834ba35896f2.png)
 
-
+WIX網站
 
 
