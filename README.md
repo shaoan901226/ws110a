@@ -33,13 +33,15 @@ WIX網站
 # 特色
 
 ![連結IG](https://user-images.githubusercontent.com/79679538/148655699-13e250eb-c9c1-49bb-8da4-7c5fd51a7326.png)
-運用工具可以連結IG帳號並顯示貼文
+*運用工具可以連結IG帳號並顯示貼文
 
 ![連結信箱](https://user-images.githubusercontent.com/79679538/148655705-8192e800-caaf-4bf1-9641-3fc4ee534125.png)
-可以連結製作者的電子郵件並收到訪客的回饋
+*可以連結製作者的電子郵件並收到訪客的回饋
 
 ![圖示連結](https://user-images.githubusercontent.com/79679538/148655711-92303c88-c476-4c28-869e-774a338ee8d3.png)
-可以在網頁裡放入連結社群網站的小圖示
+*可以在網頁裡放入連結社群網站的小圖示
+
+
 
 
 
