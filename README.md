@@ -80,8 +80,11 @@ WIX會根據選擇的類別 挑選相符的範例給你選擇
 ![開發模式](https://user-images.githubusercontent.com/79679538/148656547-3299ad22-915b-4038-a9ba-3bb5f0db7af6.png)
 ```
 另外還有開發模式 可以自己運用Javascript進行網站設計 這次的網站主要是用內建的功能並加以延伸 希望下次可以好好的運用開發者模式增進功能
-
-
+```
+![程式碼](https://user-images.githubusercontent.com/79679538/148658091-0b2d474d-8379-48a0-bfc6-196a79391d6c.JPG)
+```
+F12顯示的部分程式碼
+```
 
 
 
