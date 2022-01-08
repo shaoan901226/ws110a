@@ -48,15 +48,25 @@ WIX網站
 # WIX操作步驟
 
 ![WIX入口](https://user-images.githubusercontent.com/79679538/148656066-89eac800-226c-4be9-9e9b-7f02008b415d.png)
+```
 首先運用電子郵件建立帳號
+```
 ![我的網站](https://user-images.githubusercontent.com/79679538/148656201-a585669a-9ddd-42f1-81e9-6a52516b2752.png)
+```
 成功進入後的畫面 之後按下右上角的製作新網站
+```
 ![選擇網站類別](https://user-images.githubusercontent.com/79679538/148656253-a23bef41-42ef-4436-af29-09d6965bceef.png)
+```
 之後會進入選擇網站類別的介面 我這次的網站是選擇了部落格的類別
+```
 ![選擇範本](https://user-images.githubusercontent.com/79679538/148656281-c5ef7be0-ed6e-4fb2-ab10-1b4bac186e10.png)
+```
 WIX會根據選擇的類別 挑選相符的範例給你選擇
+```
 ![設計介面](https://user-images.githubusercontent.com/79679538/148656331-237e42e1-e74c-4a50-a4e5-1e16c620b5d9.png)
+```
 之後就可以運用內建的功能設計網站了
+```
 
 
 
