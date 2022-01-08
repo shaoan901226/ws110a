@@ -13,6 +13,10 @@
 [DD週報](https://shaoanyahoo.wixsite.com/my-site)
 # 參考資料
 [WIX](https://www.wix.com/)
+[WIX臺灣](https://www.wixtw.com/aboutwix)
+Wix.com是一個線上架設網站的平台，讓每一個使用者通過註冊，即可使用網站編輯器，建立自已網站的雲端服務。
+Wix是一間以色列公司，於2006年在Tel Aviv成立。2013年11月，於美國納斯達克證券交易所掛牌上市。截至目前全球約有2億的Wix用戶，超過190個國家在使用，是由Avishai Abrahami, Nadav Abrahami和Giora Kaplan等3位創辦人一起建立，他們3位的背景都是軟體工程師。
+[使用範本](https://zh.wix.com/website-template/view/html/2502?siteId=eea928bf-523f-4230-b2c7-4f251333ec6e&metaSiteId=e467c936-705e-41c6-9b61-cc61dedc5b31&originUrl=https%3A%2F%2Fzh.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fblog&tpClick=view_button)
 
 
 
