@@ -12,7 +12,6 @@
 # 網頁說明
 [DD週報](https://shaoanyahoo.wixsite.com/my-site)
 
-[DD週報行動版](https://editor.wix.com/html/editor/web/renderer/edit/5a4cf642-6231-4be6-8c36-f3d317a83875?metaSiteId=dc048377-81a0-46dd-9083-ddb3d808924b)
 # 參考資料
 [WIX](https://www.wix.com/)
 
@@ -32,6 +31,8 @@ Wix是一間以色列公司，於2006年在Tel Aviv成立。2013年11月，於�
 WIX網站
 
 # 特色
+
+![IMG_4529](https://user-images.githubusercontent.com/79679538/148655665-51ebc4bc-f9af-4073-bf6d-d98cdc180de8.PNG)
 
 
 
